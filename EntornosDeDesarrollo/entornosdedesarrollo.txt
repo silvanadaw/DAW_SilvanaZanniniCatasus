@@ -1,1 +1,2 @@
 Linea añadida desde la rama A
+Linea añadida desde la rama B
